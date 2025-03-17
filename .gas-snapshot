@@ -1,0 +1,6 @@
+SanTokenTest:test_Allowance() (gas: 57871)
+SanTokenTest:test_RevertWhen_ApproveToZeroAddress() (gas: 12347)
+SanTokenTest:test_RevertWhen_TransferFrom_InsufficientAllowance() (gas: 42593)
+SanTokenTest:test_RevertWhen_TransferToZeroAddress() (gas: 12227)
+SanTokenTest:test_RevertWhen_Transfer_InsufficientBalance() (gas: 16914)
+SanTokenTest:test_Transfer() (gas: 13719)
